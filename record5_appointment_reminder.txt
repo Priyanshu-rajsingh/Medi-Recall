@@ -1,0 +1,4 @@
+Patient: Alex
+Follow-Up Appointment Reminder:
+Your follow-up appointment is scheduled for next Tuesday.
+Please arrive 15 minutes early and bring your current medication list.

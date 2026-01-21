@@ -1,0 +1,5 @@
+Patient: Alex
+Doctor's Note:
+Blood pressure readings are consistently high (around 148/92 mmHg).
+Patient advised to reduce salt intake, exercise regularly, and monitor BP daily.
+Further evaluation recommended if hypertension persists.

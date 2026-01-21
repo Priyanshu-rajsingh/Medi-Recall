@@ -1,0 +1,6 @@
+Patient: Alex
+Lab Report Summary:
+Test: Vitamin D (25-Hydroxy)
+Result: Below normal range
+Interpretation: Indicates Vitamin D deficiency.
+Recommendation: Vitamin D supplementation and increased sunlight exposure advised.

@@ -1,0 +1,3 @@
+Patient: Alex
+Daily Log Entry:
+"I felt dizzy after taking my morning pill." 

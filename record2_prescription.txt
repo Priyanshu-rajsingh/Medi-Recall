@@ -1,0 +1,6 @@
+Patient: Alex
+Prescription:
+Medication: Amoxicillin 500 mg
+Dosage: One capsule orally every 8 hours
+Duration: 7 days
+Instructions: Complete the full course even if symptoms improve.
